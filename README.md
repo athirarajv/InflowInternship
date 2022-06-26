@@ -1,7 +1,7 @@
 # InflowInternship
 Hackathon - Inflow Technologies
 <br><br>
-Questions: 
+Use the Covid Dataset to visualize the following questions: 
 <br><br>
 1.	Show the number of Confirmed, Deaths and Recovered cases in each region<br>
 2.	Show the Countries with more than 500k Confirmed Cases<br>
@@ -13,3 +13,5 @@ Questions:
 8.	Show the geographical distribution of the Number of Deaths for every Country<br>
 9.	Create a Bullet Graph for Active Cases in the World <br>
 10.	Show the number distribution of 1 Week Change vs Country/Region <br>
+<br><br>
+Tableau profile: https://public.tableau.com/app/profile/athira.rajeev/viz/CovidDataset_16562467629370/Story1
